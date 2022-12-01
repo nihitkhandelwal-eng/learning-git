@@ -1,0 +1,42 @@
+[33mcommit 5c0820b26e7843b9742a87879a2bedf26fd968d7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: f8ee533 e2dc811
+Author: Nihit Khandelwal <nihitkhandelwal1998@gmail.com>
+Date:   Thu Dec 1 12:54:50 2022 +0530
+
+    Merge branch 'master' of https://github.com/nihitkhandelwal-eng/learning-git
+
+[33mcommit f8ee53341a4edb2f0fe1fdd53f45f1772b063a7a[m
+Author: Nihit Khandelwal <nihitkhandelwal1998@gmail.com>
+Date:   Thu Dec 1 12:54:29 2022 +0530
+
+    I don't know what I changed
+
+[33mcommit d4565523f05d11e0b381bd160444ba4477fa9e8f[m
+Author: Nihit Khandelwal <nihitkhandelwal1998@gmail.com>
+Date:   Thu Dec 1 11:04:21 2022 +0530
+
+    saved the page2.html to add the comment
+
+[33mcommit e2dc81162d8c8f6d4194b12a0713732cae42f870[m
+Author: Nihit Khandelwal <nihitkhandelwal1998@gmail.com>
+Date:   Thu Dec 1 11:04:21 2022 +0530
+
+    saved the page2.html to add the comment
+
+[33mcommit 6eccc128fa27894c040c24845a52468b8bfc6e94[m
+Author: Nihit Khandelwal <nihitkhandelwal1998@gmail.com>
+Date:   Thu Dec 1 11:01:24 2022 +0530
+
+    added 2nd paragraph & page2.html
+
+[33mcommit 031baaac538f94e1987b452aa159816f0c9d7393[m
+Author: Nihit Khandelwal <nihitkhandelwal1998@gmail.com>
+Date:   Thu Dec 1 10:40:29 2022 +0530
+
+    Added paragraph
+
+[33mcommit 57f8f145689f257a2e887d84c23ed0129eb30613[m
+Author: Nihit Khandelwal <nihitkhandelwal1998@gmail.com>
+Date:   Thu Dec 1 10:37:32 2022 +0530
+
+    First commit
